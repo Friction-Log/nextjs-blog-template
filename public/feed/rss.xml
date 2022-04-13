@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Site Title</title>
+        <link>https://yourdomain.com</link>
+        <description>Site Description</description>
+        <lastBuildDate>Wed, 13 Apr 2022 20:41:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Your Brand</generator>
+        <language>en</language>
+        <image>
+            <title>Site Title</title>
+            <url>https://yourdomain.com/images/podcast-logo.jpg</url>
+            <link>https://yourdomain.com</link>
+        </image>
+        <copyright>All rights reserved 2022, Your Brand.</copyright>
+        <category>Software Engineering</category>
+        <item>
+            <title><![CDATA[Episode 1 - The sample]]></title>
+            <link>https://yourdomain.com/post/episode-1</link>
+            <guid>https://yourdomain.com/post/episode-1</guid>
+            <pubDate>Wed, 13 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the first episode of your podcast]]></description>
+            <content:encoded><![CDATA[Welcome to the first episode of your podcast]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tech News, April 2022]]></title>
+            <link>https://yourdomain.com/post/apr-2022</link>
+            <guid>https://yourdomain.com/post/apr-2022</guid>
+            <pubDate>Mon, 11 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Sample content for a news blog post.]]></description>
+            <content:encoded><![CDATA[Sample content for a news blog post.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Video content sample]]></title>
+            <link>https://yourdomain.com/post/video-content-sample</link>
+            <guid>https://yourdomain.com/post/video-content-sample</guid>
+            <pubDate>Sun, 10 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Video content sample]]></description>
+            <content:encoded><![CDATA[Video content sample]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Custom Content]]></title>
+            <link>https://yourdomain.com/post/custom-content</link>
+            <guid>https://yourdomain.com/post/custom-content</guid>
+            <pubDate>Tue, 05 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[This is a sample of what you can do with custom categories]]></description>
+            <content:encoded><![CDATA[This is a sample of what you can do with custom categories]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sample Article Post]]></title>
+            <link>https://yourdomain.com/post/sample-article-post</link>
+            <guid>https://yourdomain.com/post/sample-article-post</guid>
+            <pubDate>Sat, 02 Apr 2022 04:00:00 GMT</pubDate>
+            <description><![CDATA[Here's a sample for an article post.]]></description>
+            <content:encoded><![CDATA[Here's a sample for an article post.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
